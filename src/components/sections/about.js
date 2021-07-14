@@ -142,7 +142,7 @@ const About = () => {
             </p>
 
             <p>
-              And I am currently working on developing WordPress at
+              And I am currently working on developing WordPress at 
               <a href="https://omitsis.com/">Omitsis</a> for a variety of clients.
             </p>
 
