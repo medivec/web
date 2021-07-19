@@ -4,7 +4,7 @@ title: 'Chief Technology Officer (CTO)'
 company: 'La Maravillosa'
 location: 'Barcelona'
 range: 'May 2020 - Oct 2020'
-url: 'https://www.omitsis.com/'
+url: 'https://www.lamaravillosaagency.com/'
 ---
 
 - Management of old and new projects, resolution of incidents, server management
