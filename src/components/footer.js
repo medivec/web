@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/medivec/v4">
+        <a href="">
           <div>Designed &amp; Built by Brittany Chiang</div>
 
 {/*           {githubInfo.stars && githubInfo.forks && (
