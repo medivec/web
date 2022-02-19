@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/vicentemedina/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
+    <img src="https://api.netlify.com/api/v1/badges/fbe122f1-ec25-4092-9ad8-621da5de3ce8/deploy-status" alt="Netlify Status" />
   </a>
 </p>
 
