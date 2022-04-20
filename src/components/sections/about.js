@@ -6,7 +6,7 @@ import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
 const StyledAboutSection = styled.section`
-  max-width: 900px;
+  max-width: 1000px;
 
   .inner {
     display: grid;
@@ -143,7 +143,7 @@ const About = () => {
 
             <p>
               And I am currently working on developing WordPress at 
-              <a href="https://omitsis.com/">Omitsis</a> for a variety of clients.
+               <a href="https://omitsis.com/">Omitsis</a> for a variety of clients.
             </p>
 
             <p>Here are a few technologies/tools I've been working with recently:</p>
