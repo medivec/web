@@ -3,8 +3,7 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Vicente Medina',
-    description:
-      'Vicente Medina is a senior developer specialized in WordPress.',
+    description: 'Vicente Medina is a senior developer specialized in WordPress.',
     siteUrl: 'https://medinarodriguez.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@medivec',
@@ -153,6 +152,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: 'G-2N88T6HE50',
+        head: true,
       },
     },
   ],
