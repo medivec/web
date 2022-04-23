@@ -1,7 +1,7 @@
 ---
 date: '2017-09-01'
 title: 'Senior Developer / Development Manager'
-company: 'Deideas Marketing Solutions'
+company: 'Deideas Marketing'
 location: 'Barcelona'
 range: 'Sep 2017 - Dec 2019'
 url: 'https://deideasmarketing.com/'

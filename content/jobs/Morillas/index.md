@@ -1,7 +1,7 @@
 ---
 date: '2016-12-01'
 title: 'Full-stack Developer Junior'
-company: 'Morillas Branding Agency'
+company: 'Morillas'
 location: 'Barcelona'
 range: 'Dec 2016 - Feb 2017'
 url: 'https://www.morillas.com/'
